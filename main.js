@@ -4,7 +4,7 @@ const app = Vue.createApp({
             product: 'Socks',
             image: './assets/images/socks_blue.jpg',
             inStock: true,
-            details: ['50% cotton', '30% wool', '20% polyester'],
+            details: ['45% cotton', '20% wool', '35% polyester'],
             // solution
             sizes: ['S', 'M', 'L', 'XL'],
             // solution
